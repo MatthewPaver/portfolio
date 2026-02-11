@@ -62,6 +62,43 @@ Each project below is linked to its own repository with full source code and doc
 
 ---
 
+## In Development
+
+> Active projects with fleshed-out architecture — being built iteratively.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Smart Job Market Intelligence `Advanced` ![Private](https://img.shields.io/badge/Private-grey?style=flat-square&logo=lock&logoColor=white)
+
+> Job market intelligence platform. Scrapes listings, analyses salaries with percentile breakdowns, tracks skill trends, and sends alerts via email.
+
+**What you'll learn:** Web scraping pipelines, salary analysis, FastAPI, Celery task scheduling, async SQLAlchemy
+
+**Tech:** `Python` `FastAPI` `Celery` `SQLAlchemy` `BeautifulSoup`
+
+[![Request Access](https://img.shields.io/badge/Request_Access-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver)
+
+</td>
+<td width="50%" valign="top">
+
+### AI Study Companion `Advanced` ![Private](https://img.shields.io/badge/Private-grey?style=flat-square&logo=lock&logoColor=white)
+
+> Upload PDFs, generate flashcards and quizzes with LLMs, track progress with SM-2 spaced repetition. Multi-provider support (OpenAI + Anthropic).
+
+**What you'll learn:** LLM prompt engineering, spaced repetition algorithms, PDF parsing, intelligent text chunking
+
+**Tech:** `Python` `FastAPI` `OpenAI` `Anthropic` `tiktoken`
+
+[![Request Access](https://img.shields.io/badge/Request_Access-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Machine Learning & AI
 
 > Models, pipelines, and experiments spanning NLP, recommendation systems, and computer vision.
