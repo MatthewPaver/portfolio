@@ -135,7 +135,7 @@ Each project below is linked to its own repository with full source code and doc
 <tr>
 <td width="50%" valign="top">
 
-### AI Weekly Newsletter `Intermediate`
+### AI Weekly Newsletter `Intermediate` ![Private](https://img.shields.io/badge/Private-grey?style=flat-square&logo=lock&logoColor=white)
 
 > Curated AI newsletter from 15+ sources with thumbnails, author extraction, GitHub trending repos, difficulty tagging, and an animated website with personalised filtering. Includes an RSS feed.
 
@@ -146,27 +146,14 @@ Each project below is linked to its own repository with full source code and doc
 [![Read Newsletter](https://img.shields.io/badge/Read_Newsletter-00D9FF?style=flat-square)](https://matthewpaver.github.io/ai-weekly/) [![RSS](https://img.shields.io/badge/RSS-orange?style=flat-square&logo=rss)](https://matthewpaver.github.io/ai-weekly/feed.xml)
 
 </td>
-<td width="50%" valign="top">
-
-### Generate Newsletter `Beginner`
-
-> Automated newsletter generation system. Scrapes news articles and generates formatted HTML newsletters with AI-powered summarisation.
-
-**What you'll learn:** Web scraping, HTML templating, text summarisation
-
-**Tech:** `Python` `gnews` `transformers` `pandas`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/generate-newsletter)
-
-</td>
 </tr>
 </table>
 
 ---
 
-## Web Applications & Tools
+## Data Analysis & Web Applications
 
-> Interactive web apps, data analysis pipelines, and scraping tools.
+> Interactive web apps, data analysis, and visualisation projects.
 
 <table>
 <tr>
@@ -185,28 +172,15 @@ Each project below is linked to its own repository with full source code and doc
 </td>
 <td width="50%" valign="top">
 
-### Pinterest Image Scraper `Beginner`
+### Netflix Content Analysis `Beginner`
 
-> Automated Pinterest image scraping with SHA-256 duplicate removal. Features multi-threading, proxy support, and content-based deduplication.
+> Netflix dataset analysis with pandas, matplotlib, and seaborn. Explores content trends by country, genre, and year with statistical pattern detection using 1.5x standard deviation thresholds.
 
-**What you'll learn:** Web scraping, image processing, multi-threading, hashing
+**What you'll learn:** EDA, data cleaning, time series visualisation, outlier detection
 
-**Tech:** `Python` `pinscrape` `hashlib`
+**Tech:** `Python` `pandas` `Matplotlib` `Seaborn`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/pinterest-image-scraper)
-
-</td>
-<td width="50%" valign="top">
-
-### Colab Notebook Project `Beginner`
-
-> Interactive data analysis and experimentation notebook on Google Colab. Ready to run — no local setup needed.
-
-**What you'll learn:** Data exploration, visualisation, Colab workflows
-
-**Tech:** `Python` `Google Colab` `Jupyter`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/colab-notebook-project) [![Open in Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1WsnSnIngH8xNdBNBWeJgJbKD2uMilVdS?usp=sharing)
+[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/netflix-content-analysis) [![Open in Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1WsnSnIngH8xNdBNBWeJgJbKD2uMilVdS?usp=sharing)
 
 </td>
 </tr>
@@ -222,15 +196,15 @@ Each project below is linked to its own repository with full source code and doc
 <tr>
 <td width="50%" valign="top">
 
-### PySpark & Kafka Integration `Intermediate`
+### PySpark Kafka Streaming `Intermediate`
 
-> Real-time data streaming and processing with PySpark and Apache Kafka. Build streaming consumers, DataFrame pipelines, and real-time analytics.
+> Real-time data streaming with PySpark Structured Streaming and Apache Kafka. Includes a streaming consumer, test producer, and DataFrame basics.
 
 **What you'll learn:** Stream processing, Kafka consumers, Spark DataFrames
 
 **Tech:** `Python` `PySpark` `Apache Kafka`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/pyspark-kafka-integration)
+[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/pyspark-kafka-streaming)
 
 </td>
 <td width="50%" valign="top">
