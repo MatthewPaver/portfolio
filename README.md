@@ -21,6 +21,7 @@ Each project below is linked to its own repository with full source code and doc
 | `Beginner` | Quick to run, minimal setup, great for learning |
 | `Intermediate` | Requires some domain knowledge or setup |
 | `Advanced` | Production-grade systems, multi-component architecture |
+| `Private` | Source code available on request — [get in touch](https://www.linkedin.com/in/matthew-paver-534262166/) |
 
 ---
 
@@ -32,7 +33,7 @@ Each project below is linked to its own repository with full source code and doc
 <tr>
 <td width="50%" valign="top">
 
-### Paper Trading Bot `Advanced`
+### Paper Trading Bot `Advanced` ![Private](https://img.shields.io/badge/Private-grey?style=flat-square&logo=lock&logoColor=white)
 
 > Local-first paper trading platform with broker simulation, walk-forward backtesting, and automated Discord reporting.
 
@@ -40,12 +41,12 @@ Each project below is linked to its own repository with full source code and doc
 
 **Tech:** `Python` `Pydantic` `yfinance` `pandas` `XGBoost`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/paper-trading-bot)
+[![Request Access](https://img.shields.io/badge/Request_Access-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver)
 
 </td>
 <td width="50%" valign="top">
 
-### Happening — Event Discovery `Advanced`
+### Happening — Event Discovery `Advanced` ![Private](https://img.shields.io/badge/Private-grey?style=flat-square&logo=lock&logoColor=white)
 
 > Event discovery system for London. Scrapes 100+ sources using multi-strategy web scraping, AI-powered extraction, and graph database integration.
 
@@ -53,7 +54,7 @@ Each project below is linked to its own repository with full source code and doc
 
 **Tech:** `Python` `BeautifulSoup` `Playwright` `Pydantic` `Click`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/Happening)
+[![Request Access](https://img.shields.io/badge/Request_Access-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver)
 
 </td>
 </tr>
