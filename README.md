@@ -127,9 +127,46 @@ Each project below is linked to its own repository with full source code and doc
 
 ---
 
+## Automation & Newsletters
+
+> Automated content generation and publishing pipelines.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Weekly Newsletter `Intermediate`
+
+> Automated weekly newsletter covering AI trends, tools, and research from 15+ sources. GitHub Actions generates and publishes every Monday with LLM-powered summaries.
+
+**What you'll learn:** RSS aggregation, LLM summarisation, GitHub Actions automation, Jinja2 templating
+
+**Tech:** `Python` `OpenAI` `feedparser` `GitHub Actions` `Jinja2`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/ai-weekly-newsletter)
+
+</td>
+<td width="50%" valign="top">
+
+### Generate Newsletter `Beginner`
+
+> Automated newsletter generation system. Scrapes news articles and generates formatted HTML newsletters with AI-powered summarisation.
+
+**What you'll learn:** Web scraping, HTML templating, text summarisation
+
+**Tech:** `Python` `gnews` `transformers` `pandas`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/generate-newsletter)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Web Applications & Tools
 
-> Interactive web apps, data analysis pipelines, and automation tools.
+> Interactive web apps, data analysis pipelines, and scraping tools.
 
 <table>
 <tr>
@@ -148,21 +185,6 @@ Each project below is linked to its own repository with full source code and doc
 </td>
 <td width="50%" valign="top">
 
-### Generate Newsletter `Beginner`
-
-> Automated newsletter generation system. Scrapes news articles and generates formatted HTML newsletters with AI-powered summarisation.
-
-**What you'll learn:** Web scraping, HTML templating, text summarisation
-
-**Tech:** `Python` `gnews` `transformers` `pandas`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/generate-newsletter)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### Pinterest Image Scraper `Beginner`
 
 > Automated Pinterest image scraping with SHA-256 duplicate removal. Features multi-threading, proxy support, and content-based deduplication.
@@ -171,7 +193,7 @@ Each project below is linked to its own repository with full source code and doc
 
 **Tech:** `Python` `pinscrape` `hashlib`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/pinterest-image-scraper-)
+[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/pinterest-image-scraper)
 
 </td>
 <td width="50%" valign="top">
