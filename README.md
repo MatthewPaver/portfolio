@@ -137,13 +137,13 @@ Each project below is linked to its own repository with full source code and doc
 
 ### AI Weekly Newsletter `Intermediate`
 
-> Automated weekly newsletter covering AI trends, tools, and research from 15+ sources. GitHub Actions generates and publishes every Monday with LLM-powered summaries.
+> Curated AI newsletter from 15+ sources with thumbnails, author extraction, GitHub trending repos, difficulty tagging, and an animated website with personalised filtering. Includes an RSS feed.
 
-**What you'll learn:** RSS aggregation, LLM summarisation, GitHub Actions automation, Jinja2 templating
+**What you'll learn:** RSS aggregation, OG image extraction, GitHub API, LLM summarisation, GitHub Pages deployment
 
-**Tech:** `Python` `OpenAI` `feedparser` `GitHub Actions` `Jinja2`
+**Tech:** `Python` `GitHub Actions` `GitHub Pages` `RSS` `Jinja2`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/MatthewPaver/ai-weekly-newsletter)
+[![Read Newsletter](https://img.shields.io/badge/Read_Newsletter-00D9FF?style=flat-square)](https://matthewpaver.github.io/ai-weekly/) [![RSS](https://img.shields.io/badge/RSS-orange?style=flat-square&logo=rss)](https://matthewpaver.github.io/ai-weekly/feed.xml)
 
 </td>
 <td width="50%" valign="top">
